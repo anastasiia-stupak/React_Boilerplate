@@ -1,0 +1,17 @@
+.header {
+	margin-bottom: 10px;
+
+	border-radius: 10px;
+
+	background-color: fade_out(#fff, .2);
+}
+
+.header_title {
+	padding: 10px;
+	color: #ffa016;
+
+	font-family: Prisma;
+	font-weight: normal;
+	font-size: 4rem;
+	letter-spacing: 10px;
+}

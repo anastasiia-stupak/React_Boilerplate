@@ -1,0 +1,11 @@
+//bootstrap
+@import "~bootstrap/scss/bootstrap-grid";
+@import "~bootstrap/scss/bootstrap-reboot";
+@import "~bootstrap/scss/utilities";
+
+//fonts
+@import "includes/fonts";
+
+//components
+@import "components/header";
+@import "components/content";

@@ -1,0 +1,12 @@
+@import "imports";
+
+body {
+	padding-top: 1rem;
+
+	background-image: url('/assets/images/bg.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-color: #333;
+
+	color: #fff;
+}
