@@ -30,7 +30,8 @@ config.entry = {
 // ----- OUTPUT -----
 config.output = {
 	path: path.resolve(__dirname, "dist"),
-	filename: "assets/js/[name].js"
+	filename: "assets/js/[name].js",
+	publicPath: '/'
 };
 
 // ----- LOADERS -----
